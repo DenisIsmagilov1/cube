@@ -982,6 +982,7 @@ h3 {
 }
 
 .partners__row {
+  justify-content: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
